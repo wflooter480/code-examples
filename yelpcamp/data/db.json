@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5adf5e1c627c223ad63e2b4c"},"name":"Granite Hill","image":"https://farm8.staticflickr.com/7205/7121863467_eb0aa64193.jpg","description":"This is a huge hill made of granite. There are no bathrooms and no running water.","__v":0}
+{"_id":{"$oid":"5adf6e5a77f6333b2fb9b96f"},"name":"Starry Night Bluff","image":"https://pixabay.com/get/e837b5092af3083ed1584d05fb1d4e97e07ee3d21cac104497f4c471a7edb0b0_340.jpg","__v":0}
+{"_id":{"$oid":"5adf6fb66d62a43b728cc5a0"},"name":"New Campground","image":"https://pixabay.com/get/e83db1082cfd043ed1584d05fb1d4e97e07ee3d21cac104497f4c471a7edb0b0_340.jpg","description":"This is a description.","__v":0}
